@@ -8,4 +8,4 @@ Note that "..." represents the values in between.
 
 a = int(input())
 for i in range(1,a+1):
-    print(i, end='')
+    print(i, end = '')

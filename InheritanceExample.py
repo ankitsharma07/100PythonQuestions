@@ -1,4 +1,4 @@
-#!usr/bin/python3
+ /#!usr/bin/python3
 
 class Pet:
     #__init__ is a constructor in Python

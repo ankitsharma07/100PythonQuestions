@@ -17,8 +17,7 @@ def main():
 
     #Printing the output
     print(iAmObject.name + " " + str(iAmObject.number))
-    
-#Telling python that there is main function in the file::--
+
+#Telling python that there is main function in the file::
 if __name__ == '__main__':
     main()
-    
