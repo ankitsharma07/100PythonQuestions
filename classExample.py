@@ -1,7 +1,6 @@
 #!usr/bin/python3
 
 class myClass:
-
     #Assigning a value to the myClass attribute
     number = 0
     name = "noName"
